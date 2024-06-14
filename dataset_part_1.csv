@@ -1,0 +1,3 @@
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,Outcome,Flights,GridFins,Reused,Legs,LandingPad,Block,ReusedCount,Serial,Longitude,Latitude
+1,2020-01-01,Falcon 9,500,LEO,CCAFS LC-40,Success,1,True,False,True,LZ-1,5.0,0,B1049,-80.5772,28.5623
+2,2020-03-01,Falcon 9,1500,LEO,CCAFS LC-40,Success,1,False,True,True,LZ-1,4.0,2,B1046,-80.5772,28.5623
